@@ -1,11 +1,11 @@
 # Visualisations-Opencv
 This represents the various ways to visualize an image using python opencv
 
-##Original Image
+#Original Image
 
 ![Original Image](https://github.com/Baazigar007/Visualisations-Opencv/blob/master/Images/o.JPG)
 
-##Examples of Visualisations
+#Examples of Visualisations
 
 ![Processed_Image_1](https://github.com/Baazigar007/Visualisations-Opencv/blob/master/Images/f.JPG)
 
